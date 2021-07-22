@@ -1,5 +1,5 @@
 <h1>Money Lover (Clone of money manager app)</h1>
-<p>Thhis application allow user to manage their expenses, spendings and earning in well organized manner.</p>
+<p>This application allow user to manage their expenses, spendings and earning in well organized manner.</p>
 <hr>
 <h3>Used Technologies</h3>
 <ul>
